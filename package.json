@@ -1,0 +1,20 @@
+{
+  "name": "prueba-tecnica-nodejs",
+  "version": "1.0.0",
+  "description": "Desarrollo de una API con un crud simple (Crear, Leer, Modificar, Eliminar) usando Nodejs, ExpressJs y MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JhonGonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "jsonwebtoken": "^9.0.1",
+    "mysql": "^2.18.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
