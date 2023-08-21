@@ -1,19 +1,20 @@
 # Prueba-Tecnica-NodeJS
 
+## Paso a paso para configurar y ejecutar la API en un entorno local
 
-#CRUD SIMPLE usando MySQL, NODEJS, EXPRESSJS y JSONWEBTOKEN 
+1. ### CRUD SIMPLE usando MySQL, NODEJS, EXPRESSJS y JSONWEBTOKEN 
 
-##Descargue el archivo rar y luego descomprima en su pc.
+2. ### Descargue el archivo rar y luego descomprima en su pc.
 
-##abrir un editor de texto (VSCODE, SublimeText, Atom) para poder visualizar el codigo.
+3. ### Abrir el documento/carpeta en un editor de texto de preferencia: (VSCODE, SublimeText, Atom) para poder visualizar el codigo.
 
-##abrir la terminal del editor de texo y instalar expressjs (aplicaciones backend con Node) de la siguiente forma: **npm install express**
+4. ### Abrir la terminal del editor de texo y instalar expressjs (aplicaciones backend con Node) de la siguiente forma: **npm install express**
 
-##Seguidamente instalar mysql lo cual le permite realizar la conexion a la base de datos: **npm install mysql** ; y posteriormente instalar express-myconnection: **npm install express-myconnection**
+5. ### Seguidamente instalar mysql lo cual le permite realizar la conexion a la base de datos: **npm install mysql** ; y posteriormente instalar express-myconnection: **npm install express-myconnection**
 
-##finalmente instalar JSONWEBTOKEN: **npm install jsonwebtoken**
+6. ### Finalmente instalar JSONWEBTOKEN: **npm install jsonwebtoken**
 
-##una vez finalizado todo este proceso poner en marcha el CRUD usando el siguiente comando: **node server** o **node server.js**
+7. ### una vez finalizado todo este proceso poner en marcha el CRUD usando el siguiente comando: **node server** o **node server.js**
 
 
 
